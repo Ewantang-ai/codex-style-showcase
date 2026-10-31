@@ -1,0 +1,58 @@
+{
+  "version": "2.0.0",
+  "sources": [
+    {
+      "repo": "CloudAI-X/threejs-skills",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT"
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/motion-design-skills",
+      "commit": "3c129f769d90a1328c209c386492333c9ac62312",
+      "license": "MIT"
+    },
+    {
+      "repo": "Vincentwei1021/mg-styles-15",
+      "commit": "49052d80bfaf9fa8412cc9710530e5e95a3b8d8c",
+      "license": "MIT"
+    }
+  ],
+  "optional_skills": [
+    "threejs-animation",
+    "threejs-asset-pipeline",
+    "threejs-fundamentals",
+    "threejs-geometry",
+    "threejs-interaction",
+    "threejs-lighting",
+    "threejs-loaders",
+    "threejs-materials",
+    "threejs-performance",
+    "threejs-postprocessing",
+    "threejs-react-three-fiber",
+    "threejs-shaders",
+    "threejs-textures",
+    "gsap-core",
+    "gsap-frameworks",
+    "gsap-performance",
+    "gsap-plugins",
+    "gsap-react",
+    "gsap-scrolltrigger",
+    "gsap-timeline",
+    "gsap-utils",
+    "after-effects",
+    "animation-principles",
+    "beat-sync-editing",
+    "color-motion",
+    "logo-animation",
+    "motion-art-direction",
+    "motion-background",
+    "shot-composition"
+  ],
+  "private_voice_and_faces_included": false,
+  "upstream_mp4_and_sample_music_included": false
+}

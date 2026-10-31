@@ -1,0 +1,97 @@
+{
+  "version": "2.0.0",
+  "date": "2026-10-31",
+  "core_skill_count": 7,
+  "optional_skill_count": 29,
+  "original_style_count": 15,
+  "private_material_scan": "passed; allowlisted sources, no personal face/voice/account assets",
+  "browser_checks": [
+    {
+      "style": "pixel",
+      "errors": [],
+      "missing": [],
+      "deterministic": false,
+      "hashes": [
+        "6ceb9d498c299d32c4721d59734280c29c30976f212eae8e2aecc3daa02c06f3",
+        "cc56ef8c51fdae257e2f6228b3e97b64e9b926524b5b866121e27849b62d089f",
+        "f7e2b6be1de5bb35704ebd4d9af68ea9470997025f5d38c4720a987b8f9c6476",
+        "522c9b5eeef86bffefed9b1e5ef0c37c76c408c549666d55abb68c74a8d117c6",
+        "8912dae141c33c0f4bd965d0bcaabb299e092198f66db849c6176cbb4ee164db"
+      ],
+      "max_repeat_pixel_channel_difference": 1,
+      "repeat_result": "visually identical; GPU rounding at most 1/255, not byte-identical"
+    },
+    {
+      "style": "city",
+      "errors": [],
+      "missing": [],
+      "deterministic": true,
+      "hashes": [
+        "c30f798723e9b09813217d73cfc6669ed27d7d5a4dc55d0e381c797e02fda191",
+        "72521db89bda11efd5dab8be37f5ab93020194cca0db1c8897d5750339f2adcc",
+        "2325eb591d96dd453e7fd66a58549e32d82c5f0dabcdb3dff0dc2c6fd9cd0911"
+      ],
+      "repeat_result": "byte-identical"
+    },
+    {
+      "style": "hud",
+      "errors": [],
+      "missing": [],
+      "deterministic": false,
+      "hashes": [
+        "99c1bd36a77bf7b7207f2985dea8727aabd79536c7bc744072df82272ffbbe96",
+        "f423f1376407e9e865b44874a71d2e58b02a01d8e6eab3c72168fa64c414cd9b",
+        "9776cfa2d075eaf92c26d8992443dab5e37f3108034faffcc79bbd3da1b7aab2"
+      ],
+      "max_repeat_pixel_channel_difference": 1,
+      "repeat_result": "visually identical; GPU rounding at most 1/255, not byte-identical"
+    },
+    {
+      "style": "liquid",
+      "errors": [],
+      "missing": [],
+      "deterministic": true,
+      "hashes": [
+        "9dd2f3a2dadba8521ea38d98343a902afe0bfbcf829b779e5f46c067b934c5ce",
+        "db3d940932dcebdbb558f65a2648e59376c00cf1862ce6ea367d9600e878bdf7",
+        "10b3851be135617cc2bb72d85bd9e1108d135e6e5d83916209f7211306940c39"
+      ],
+      "repeat_result": "byte-identical"
+    },
+    {
+      "style": "library-pixel",
+      "errors": [],
+      "missing": [],
+      "deterministic": true,
+      "hashes": [
+        "4f0c9a3dfdf6a8b31343df031dcdd3a0e0442e9dbfafe36db24bac65572e90e0"
+      ],
+      "repeat_result": "byte-identical"
+    },
+    {
+      "style": "library-flat",
+      "errors": [],
+      "missing": [],
+      "deterministic": true,
+      "hashes": [
+        "b83c81c5d5e3f8fd823a77878744bbbc027ca906372b64a86cd1072b0a4f66fb"
+      ],
+      "repeat_result": "byte-identical"
+    }
+  ],
+  "preview_player": {
+    "ready": true,
+    "progress_a": "0.7 / 60.6 秒",
+    "progress_b": "1.8 / 60.6 秒",
+    "advances": true,
+    "errors": []
+  },
+  "silent_short_export": "3 seconds, 1920x1080, 25fps; full decode passed",
+  "tested_dependency_environment": "existing local puppeteer-core cache; not a fresh recipient computer installation",
+  "powershell_installer_syntax": "passed; installer not run against users real Codex home",
+  "limitations": [
+    "15 original styles were not all rendered into new full videos",
+    "New recipient Chanjing audition permissions and MuseTalk setup not tested",
+    "GPU screenshot repeat may differ by 1 channel level in two examples"
+  ]
+}

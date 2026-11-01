@@ -4,6 +4,12 @@
 
 **[下载完整整合包](https://github.com/Ewantang-ai/codex-style-showcase/releases/download/v2.0.0/codex-video-skills-v2.0.0.zip)** · **[查看版本与附件](https://github.com/Ewantang-ai/codex-style-showcase/releases/latest)**
 
+## 等距城市、HUD扫描、液态流动这条视频
+
+这三款已经在同一个 v2.0.0 整合包中：`skills/isometric-city`、`skills/hud-scan`、`skills/liquid-motion`。
+
+**[本条视频的领取与使用指南](docs/city-hud-liquid-download.md)**。已下载 v2.0.0 无需重复领取；新朋友下载上方指定名称的完整 ZIP，不要选自动生成的 `Source code (zip)`。
+
 ## 刚从抖音群来的朋友
 
 1. 打开上面的版本页，展开 Assets，下载 `codex-video-skills-v2.0.0.zip`。

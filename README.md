@@ -4,6 +4,14 @@
 
 **[下载完整整合包](https://github.com/Ewantang-ai/codex-style-showcase/releases/download/v2.0.0/codex-video-skills-v2.0.0.zip)** · **[查看版本与附件](https://github.com/Ewantang-ai/codex-style-showcase/releases/latest)**
 
+## 一个圆，能有多炫｜第二期专用包
+
+图形形变、极光玻璃、霓虹合成波的视频同款资料已单独整理：可编辑示例、原始提示词、Skill入口、素材准备和预览脚本。
+
+**[下载本期专用资料包](https://github.com/Ewantang-ai/codex-style-showcase/raw/main/circle-three-styles-v1.0.0.zip)** · **[先看领取与使用指南](docs/circle-three-styles-download.md)**
+
+完整解压后读「00_先读我」，将整个文件夹交给Codex，复制「01_复制给AI」。字体与纹理首次准备从旧v2完整包读取；已有旧包可直接复用，首次需要下载时约218 MiB。专用包内不包含本人的人脸、声音或账号。
+
 ## 等距城市、HUD扫描、液态流动这条视频
 
 这三款已经在同一个 v2.0.0 整合包中：`skills/isometric-city`、`skills/hud-scan`、`skills/liquid-motion`。
